@@ -1,0 +1,7 @@
+  output/
+  build/
+  .Rhistory
+  .RData
+  .Rproj.user/
+  *.Rproj
+  ~$*
